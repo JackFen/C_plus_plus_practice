@@ -500,7 +500,7 @@ float judge(type a,type b)//求a和b的关系
 deriv_sigmoid、前向传播函数forward、训练 函数train、预测函数predict，
 
 神经网络结构如下所示
-<img src="https://github.com/JackFen/C_plus_plus_practice/blob/main/img_for_note/B2.jpg" width = 20% height = 20% />
+<img src="https://github.com/JackFen/C_plus_plus_practice/blob/main/img_for_note/B2.jpg" />
 
 
 要求：神经网络实现二维点分类，例如：如果x>0，y>0，标签为 0；如果x<0，y<0，标签为1。

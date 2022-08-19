@@ -500,6 +500,7 @@ float judge(type a,type b)//求a和b的关系
 deriv_sigmoid、前向传播函数forward、训练 函数train、预测函数predict，
 
 神经网络结构如下所示
+
 <img src="https://github.com/JackFen/C_plus_plus_practice/blob/main/img_for_note/B2.jpg" />
 
 

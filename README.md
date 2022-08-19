@@ -500,7 +500,7 @@ float judge(type a,type b)//求a和b的关系
 deriv_sigmoid、前向传播函数forward、训练 函数train、预测函数predict，
 
 神经网络结构如下所示
-
+<img src="https://github.com/JackFen/C_plus_plus_practice/blob/main/img_for_note/B2.jpg" width = 20% height = 20% />
 
 
 要求：神经网络实现二维点分类，例如：如果x>0，y>0，标签为 0；如果x<0，y<0，标签为1。
@@ -683,11 +683,11 @@ public:
 
 （3）  每一步都用图形化方式顺序输出，例如
 
-
+<img src="https://github.com/JackFen/C_plus_plus_practice/blob/main/img_for_note/c21.jpg" width = 20% height = 20% />
 
 棋盘初始化为（“*”表示空格）
 
-
+<img src="https://github.com/JackFen/C_plus_plus_practice/blob/main/img_for_note/c22.jpg" width = 20% height = 20% />
 
 （4）棋盘大小设置：完成上述功能后考虑灵活设置棋盘大小。
 
@@ -1033,7 +1033,7 @@ public:
 
 程序所显示的菜单基本内容如下：
 
-
+<img src="https://github.com/JackFen/C_plus_plus_practice/blob/main/img_for_note/D2.jpg" width = 20% height = 20% />
 
 **解题思路：**
 
